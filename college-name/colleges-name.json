@@ -1,13 +1,14 @@
-{
-  "my_name": "Ankit Prajapati",
-  "about_me": "Software Developer, IndiaNIC Infotech",
-  "college_name": "Allenhouse Institute of technology",
-  "website_link": "https://allenhouse.ac.in/"
-},
-{
-  "my_name": "Mohd Faiz",
-  "about_me": "Manager, Promark Techsolutions Pvt Ltd",
-  "college_name": "Dr Rammanohar Lohia Avadh University",
-  "website_link": "http://www.rmlau.ac.in/new/index.aspx/"
-}
-
+[
+  {
+    "my_name": "Ankit Prajapati",
+    "about_me": "Software Developer, IndiaNIC Infotech",
+    "college_name": "Allenhouse Institute of technology",
+    "website_link": "https://allenhouse.ac.in/"
+  },
+  {
+    "my_name": "Mohd Faiz",
+    "about_me": "Manager, Promark Techsolutions Pvt Ltd",
+    "college_name": "Dr Rammanohar Lohia Avadh University",
+    "website_link": "http://www.rmlau.ac.in/new/index.aspx/"
+  }
+]
