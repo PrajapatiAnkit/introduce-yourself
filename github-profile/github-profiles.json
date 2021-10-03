@@ -1,11 +1,17 @@
-{
-  "username": "PrajapatiAnkit",
-  "profile_link": "https://github.com/PrajapatiAnkit/",
-  "description": "Software Developer, IndiaNIC Infotech"
-},
-{
-  "username": "mfaiz078600",
-  "profile_link": "https://github.com/mfaiz078600/",
-  "description": "Manager, Promark Techsolutions Pvt Ltd"
-}
-
+[
+  {
+    "username": "PrajapatiAnkit",
+    "profile_link": "https://github.com/PrajapatiAnkit/",
+    "description": "Software Developer, IndiaNIC Infotech"
+  },
+  {
+    "username": "mfaiz078600",
+    "profile_link": "https://github.com/mfaiz078600/",
+    "description": "Manager, Promark Techsolutions Pvt Ltd"
+  },
+   {
+    "username": "PrajapatiSonu",
+    "profile_link": "https://github.com/PrajapatiSonu/",
+    "description": "I am student leanring HTML & CSS to become Front-end Software Engineer"
+  }
+]
