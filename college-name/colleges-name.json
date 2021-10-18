@@ -22,5 +22,11 @@
     "about_me": "Mobile Application Developer",
     "college_name": "NISCM",
     "website_link": "www.nicsm.ac.in"
+  },
+   {
+    "my_name": "Ankit kumar",
+    "about_me": "Software Developer",
+    "college_name": "GIC",
+    "website_link": "www.gic.ac.in"
   }
 ]
